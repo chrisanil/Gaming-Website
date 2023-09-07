@@ -12,6 +12,7 @@
 .Laugh {
   font-family: "Monofett", monospace;
   font-size: 30px;
+  line-height: 30px;
 }
 .Ad {
   font-family: "Shadows Into Light", cursive;
@@ -248,4 +249,12 @@ html {
 * {
   margin: 0;
   padding: 0;
+}
+@media screen and (max-width: 600px) {
+  .hero-text p {
+    width: 100%;
+  }
+  .hero-title {
+    font-size: 30px;
+  }
 }

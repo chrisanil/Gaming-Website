@@ -5,4 +5,4 @@
 - 📫 How to reach me:
   chrisanil2010@gmail.com
 - Here's the website's actual link:
-f4cpvz.csb.app
+http://jcreviews.wuaze.com
